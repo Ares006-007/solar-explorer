@@ -1,4 +1,6 @@
-Solar System Explorer
+https://ares006-007.github.io/solar-explorer/
+*Solar System Explorer*
+
 A visual and interactive explorer of our solar system, created using only HTML and CSS – no JavaScript required! 🚀🌞✨
 
 Overview
