@@ -42,7 +42,7 @@ solar-explorer/
 Clone this repository
 
 bash
-git clone https://github.com/<your-username>/solar-explorer.git
+git clone https://github.com/Ares006-007/solar-explorer.git
 Open the project folder
 
 bash
