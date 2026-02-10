@@ -18,7 +18,7 @@ Explore the wonders of our solar system through a clean, interactive web experie
 
 Check it out here:
 
-👉 **Live Site:** https://ares006-007.github.io/solar-explorer/[page:1]
+👉 **Live Site:** https://ares006-007.github.io/solar-explorer/
 
 ---
 
