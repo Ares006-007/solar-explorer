@@ -1,10 +1,10 @@
-#  Solar System Explorer
+# 1. Solar System Explorer
 
 Explore the wonders of our solar system through a clean, interactive web experience built entirely with **HTML** and CSS. Navigate between planets, read bitesized facts, and learn about their iconic moons in a singlepage interface.
 
 ---
 
-## Highlights
+## 2 .Highlights
 
 -  Click-to-explore navigation for all major planets plus Pluto, each with its own info section.
 -  Includes famous moons like the Moon, Phobos, Deimos, Io, Europa, Ganymede, Titan, Triton, and more.
@@ -14,7 +14,7 @@ Explore the wonders of our solar system through a clean, interactive web experie
 
 ---
 
-##  Live Demo
+## 3.  Live Demo
 
 Check it out here:
 
@@ -22,7 +22,7 @@ Check it out here:
 
 ---
 
-##  Tech Stack
+## 4. Tech Stack
 
 - **HTML5** – Semantic structure for planets, moons, and content sections.
 - **CSS3** – Layout, styling, and interactivity using selectors and radio button hacks.
@@ -31,7 +31,7 @@ No frameworks, no libraries, just classic front-end.
 
 ---
 
-##  Project Structure
+##  5. Project Structure
 
 ```text
 solar-explorer/
@@ -46,7 +46,7 @@ git clone https://github.com/Ares006-007/solar-explorer.git
 Open the project folder
 
 bash
-cd solar-explorer
+cd solar explorer
 Run it locally
 
 Option 1: Double click index.html to open it in your browser.
@@ -57,14 +57,14 @@ bash
 python -m http.server 8000
 Then visit http://localhost:8000 in your browser.
 
-🛠 Customization
+> Customization
 You can easily tweak the project to make it your own:
 
  Change colors, fonts, or spacing in style.css to create a new visual theme.[page:1]
 
  Edit planet descriptions, facts, or moon lists directly in index.html.[page:1]
 
-🖼 Add images or icons for each planet inside an assets/ folder and wire them up in the HTML/CSS.
+ Add images or icons for each planet inside an assets/ folder and wire them up in the HTML/CSS.
 
  Possible Enhancements
 Some ideas if you want to take this further:
@@ -75,13 +75,13 @@ Improve responsiveness on mobile devices with refined layouts.
 
 Enhance accessibility with better semantics, ARIA labels, and keyboard navigation.
 
- License
+  6. License
 This project is intended for learning, experimenting, and personal use.
 Feel free to fork, modify, and extend it. A small credit (link back to this repo or the live demo) is always appreciated.
 Add animations or transitions for smoother planet switching.
 
 Improve accessibility (ARIA attributes, keyboard navigation, and semantic landmarks).
 
-License
+7. License
 This project is open for learning and personal use.
 You can modify and adapt it as you like. For any reuse beyond that, please add a credit link back to this repository or the live demo.
